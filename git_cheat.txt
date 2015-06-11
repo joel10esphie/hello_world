@@ -1,0 +1,6 @@
+git add .  			// all
+git commit
+git checkout (branch name)  	// choose other branch
+git pull 			// update the offline copy
+git push origin (branch name)  // create new branch
+git push origin :branch        // remove branch
